@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "89038121498",
+    "firebase_url": "https://yemek-tarifi-1bacf.firebaseio.com",
+    "project_id": "yemek-tarifi-1bacf",
+    "storage_bucket": "yemek-tarifi-1bacf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:89038121498:android:b5a03a45c4f8115101ffa3",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "89038121498-74pum12begrsc3mfrlk3uqnd45jav28o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCx_fneR5jSEVH6QG60VHeUlCTVIkjB6f8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "89038121498-74pum12begrsc3mfrlk3uqnd45jav28o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
